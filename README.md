@@ -20,4 +20,4 @@ This file allows you to restart your Minecraft server (hosted locally), if it st
 
 Your files are ready. All you have to do is launch [auto_run.py](auto_run.py) !
 
-[![My Skills](https://skillicons.dev/icons?i=py,idea,github&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,github,idea&theme=light)](https://skillicons.dev)
