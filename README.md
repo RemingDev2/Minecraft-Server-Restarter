@@ -5,6 +5,8 @@
 # Goal
 This file allows you to restart your Minecraft server (hosted locally), if it stops.
 
+MODS DO IT WELL, WITHOUT CONFIGURATION BUT I DID IT BEFORE FOUND MODS
+
 ## Setup
 **Place it in the root of the server**
 
