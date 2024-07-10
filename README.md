@@ -3,7 +3,6 @@
 [![My Skills](https://skillicons.dev/icons?i=py,github,idea&theme=light)](https://skillicons.dev)
 
 # Goal
-
 This file allows you to restart your Minecraft server (hosted locally), if it stops.
 
 ## Setup
