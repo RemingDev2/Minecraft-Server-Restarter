@@ -1,10 +1,13 @@
 # Auto Restart Minecraft Server
 
+[![My Skills](https://skillicons.dev/icons?i=py,github,idea&theme=light)](https://skillicons.dev)
+
+# Goal
+
 This file allows you to restart your Minecraft server (hosted locally), if it stops.
 
+## Setup
 **Place it in the root of the server**
-
-*Configuration:*
 
   1. Open [auto_run.py](auto_run.py) in a code/text editor
 
@@ -19,5 +22,3 @@ This file allows you to restart your Minecraft server (hosted locally), if it st
   6. In 'auto-run.py' change {number} to the number previously displayed.
 
 Your files are ready. All you have to do is launch [auto_run.py](auto_run.py) !
-
-[![My Skills](https://skillicons.dev/icons?i=py,github,idea&theme=light)](https://skillicons.dev)
